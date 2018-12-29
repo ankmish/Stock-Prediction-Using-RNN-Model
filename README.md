@@ -1,9 +1,8 @@
 ### Predict stock market prices using RNN
 
+It uses RNN Deep Learning algorithm to predict the Stock Market price.
 
 #### Steps
-
-It uses RNN Deep Learning algorithm to predict the Stock Market price.
 
 1. Make sure `tensorflow` has been installed.
 2. First download the full S&P 500 data from [Yahoo! Finance ^GSPC](https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC) (click the "Historical Data" tab and select the max time period). And save the .csv file to `data/SP500.csv`.
