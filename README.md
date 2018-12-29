@@ -1,7 +1,7 @@
 ### Predict stock market prices using RNN
 
 
-###Steps
+#### Steps
 
 It uses RNN Deep Learning algorithm to predict the Stock Market price.
 
